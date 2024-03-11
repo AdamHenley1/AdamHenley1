@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamhenley1" alt="adamhenley1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adamhenley_" target="blank"><img src="https://img.shields.io/twitter/follow/its_amosity?logo=twitter&style=for-the-badge" alt="AdamHenley_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adamhenley_" target="blank"><img src="https://img.shields.io/twitter/follow/AdamHenley_?logo=twitter&style=for-the-badge" alt="AdamHenley_" /></a> </p>
 
 - 🔭 I’m currently working on [Pixly](https://github.com/AdamHenley1/School-Tasks/tree/main/Pixly)
 
