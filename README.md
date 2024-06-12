@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on [Pixly](https://github.com/AdamHenley1/School-Tasks/tree/main/Pixly)
 
-- 🌱 I’m currently learning **C#, SwuiftUI, Python**
+- 🌱 I’m currently learning **C#, SwuiftUI, Python, react-native**
+	- I plan to now fully learn python and react-native as my computer science course work will be coded in react-native to accommodate both android and iOS for front end development and for back end do it in Python as its common for back end to be done in python (compared to c#) this is to allow me to build knowledge in app dev front end and back end.
 
 - 📫 How to reach me **adam.henley78@gmail.com**
 
