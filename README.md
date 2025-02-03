@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/adamhenley_" target="blank"><img src="https://img.shields.io/twitter/follow/AdamHenley_?logo=twitter&style=for-the-badge" alt="AdamHenley_" /></a> </p>
 
-- 🔭 I’m currently working on [Pixly](https://github.com/AdamHenley1/Pixly)
+- 🔭 I’m currently working on Nothing as of yet due to A-Levels
 
 - 🌱 I’m currently learning **C#, SwuiftUI, Python**
 	- I plan to now fully learn python and react-native as my computer science course work will be coded in react-native to accommodate both android and iOS for front end development and for back end do it in Python as its common for back end to be done in python (compared to C#) this is to allow me to build knowledge in app dev front end and back end.
@@ -14,7 +14,11 @@
 - 📫 How to reach me **adam.henley78@gmail.com**
 
 - ⚡ Fun fact **I want to go into Software Development**
-
+## Plans for the future
+- I plan to release my Pixly app in two languages one is in SwiftUI and one in Flutter
+- Work on another app that uses an algorith to search for the best pathing to connect all nodes together
+- Develop and create more programs in different languages to add to my portfolio
+- Work on my website using githup api to add my projects to my website.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adamhenley_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_amosity" height="30" width="40" /></a>
