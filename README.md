@@ -8,15 +8,17 @@
 
 - 🔭 I’m currently working on Nothing as of yet due to A-Levels
 
-- 🌱 I’m currently learning **C#, SwuiftUI, Python**
-	- I plan to now fully learn python and react-native as my computer science course work will be coded in react-native to accommodate both android and iOS for front end development and for back end do it in Python as its common for back end to be done in python (compared to C#) this is to allow me to build knowledge in app dev front end and back end.
+- 🌱 I’m currently learning **Python and Java**
+	- I plan to now fully learn python and Java as my A-level computer science exam will be coded in python and my first choice university course is majority going to be in Java so I'm learning it now to prepare for Uni.
+
+ - I plan to organise my github page into each coding language and into its individual tasks
 
 - 📫 How to reach me **adam.henley78@gmail.com**
 
 - ⚡ Fun fact **I want to go into Software Development**
 ## Plans for the future
-- I plan to release my Pixly app in two languages one is in SwiftUI and one in Flutter
-- Work on another app that uses an algorith to search for the best pathing to connect all nodes together
+- I plan to release my Pixly app in two languages one is in SwiftUI and one in java (as well as a website) however this is a long term goal
+- Work on another app that uses an algorith to search for the optimum paths based on how many paths you have access to ( mini metro finder)
 - Develop and create more programs in different languages to add to my portfolio
 - Work on my website using githup api to add my projects to my website.
 <h3 align="left">Connect with me:</h3>
