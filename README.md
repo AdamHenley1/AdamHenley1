@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Nothing as of yet due to A-Levels
 
 - 🌱 I’m currently learning **Python and Java**
-	- I plan to now fully learn python and Java as my A-level computer science exam will be coded in python and my first choice university course is majority going to be in Java so I'm learning it now to prepare for Uni.
+	- I plan to now learn python and Java as my A-level computer science exam will be coded in python and my first choice university course is majority going to be in Java so I'm learning it now to prepare for Uni.
 
  - I plan to organise my github page into each coding language and into its individual tasks
 
