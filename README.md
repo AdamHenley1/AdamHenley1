@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer from the UK</h3>
+<h3 align="center">A Computing Student from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamhenley1&label=Profile%20views&color=0e75b6&style=flat" alt="adamhenley1" /> </p>
 
