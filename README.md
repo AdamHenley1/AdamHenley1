@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/adamhenley_" target="blank"><img src="https://img.shields.io/twitter/follow/AdamHenley_?logo=twitter&style=for-the-badge" alt="AdamHenley_" /></a> </p>
 
-- 🔭 I’m currently working on Nothing as of yet due to A-Levels
+- 🔭 Learning Java at university with plans to create an application groups of friends and close that distance that many friend groups have when they move on in life
 
 - 🌱 I’m currently learning **Python and Java**
-	- I plan to now learn python and Java as my A-level computer science exam will be coded in python and my first choice university course is majority going to be in Java so I'm learning it now to prepare for Uni.
+	- I plan to now learn python and Java as my Uni course is mainly in Java with some python modules
 
  - I plan to organise my github page into each coding language and into its individual tasks
 
