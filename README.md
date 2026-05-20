@@ -6,21 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/adamhenley_" target="blank"><img src="https://img.shields.io/twitter/follow/AdamHenley_?logo=twitter&style=for-the-badge" alt="AdamHenley_" /></a> </p>
 
-- 🔭 Learning Java at university with plans to create an application groups of friends and close that distance that many friend groups have when they move on in life
+- 🔭 Learning Java at university.
 
 - 🌱 I’m currently learning **Python and Java**
-	- I plan to now learn python and Java as my Uni course is mainly in Java with some python modules
-
- - I plan to organise my github page into each coding language and into its individual tasks
 
 - 📫 How to reach me **adam.henley78@gmail.com**
 
-- ⚡ Fun fact **I want to go into Software Development**
-## Plans for the future
-- I plan to release my Pixly app in two languages one is in SwiftUI and one in java (as well as a website) however this is a long term goal
-- Work on another app that uses an algorith to search for the optimum paths based on how many paths you have access to ( mini metro finder)
-- Develop and create more programs in different languages to add to my portfolio
-- Work on my website using githup api to add my projects to my website.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adamhenley_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_amosity" height="30" width="40" /></a>
